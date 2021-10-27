@@ -25,8 +25,8 @@ jobs:
         with:
           aws_a
 
-aws_access_key_id: AKIA4EYGZAUXAGNZ4SWY
-          aws_secret_access_key: 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
+aws_access_key_id:
+          aws_secret_access_key:
           aws_region: us-east-1
           function_name: test
           zip_file: bundle.zip
